@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.aws-profile
+.aws-resources.env
+.DS_Store
+logs/
+*.log
+blog/
+.agents/

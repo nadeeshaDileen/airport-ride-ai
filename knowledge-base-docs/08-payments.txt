@@ -1,0 +1,21 @@
+Palmway Transfers: Payments
+
+Payment methods
+- Card online (Visa, Mastercard, American Express) when you book.
+- PayPal when you book.
+- Cash to the driver at the end of the ride, in LKR or USD. Drivers may not carry change for large USD notes.
+
+When you pay
+Online payments are taken when you confirm the booking. Cash bookings are paid at the end of the ride. The price is fixed at booking, so the driver will never ask for more than the booked price, except for extra waiting time or extra stops you requested.
+
+Receipts
+A receipt is emailed after every ride. For business travel, add your company name in the booking form and it will appear on the receipt.
+
+Tips
+Tips are optional and go directly to the driver.
+
+Payment problems
+If a card payment fails, the booking is not confirmed. Try another card or choose cash. If you were charged twice, contact support with your booking reference and we will refund the duplicate payment.
+
+Fair use
+Every ride must be paid for at the booked price. We cannot help with requests to avoid payment, use someone else's card, or create bookings with false details.

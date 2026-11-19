@@ -1,0 +1,20 @@
+Palmway Transfers: About Us and How to Book
+
+Palmway Transfers is a fictional airport transfer company used in this tutorial. We provide private rides between Bandaranaike International Airport (CMB) and hotels, homes and towns across Sri Lanka, 24 hours a day, 7 days a week.
+
+How to book
+1. Enter your pickup point and destination. For airport pickups, choose "Arrival at CMB".
+2. Choose a vehicle that fits your group and luggage (Mini car, Sedan or Van).
+3. Add your flight number, arrival date and time, number of passengers, number of suitcases, and any extras such as child seats.
+4. Choose a payment method and confirm.
+
+You receive a booking reference (for example PW-123456) and a confirmation email within a few minutes. Your driver's name and vehicle number are sent 12 hours before pickup.
+
+When to book
+Book at least 6 hours before pickup. Bookings made less than 6 hours ahead are accepted only if a driver is free; we confirm by email within 30 minutes.
+
+Return trips
+You can add a return trip (for example hotel to airport) in the same booking. A return trip is priced as a separate one-way ride.
+
+Changing a booking
+You can change the pickup time, flight number, passenger count or extras for free up to 6 hours before pickup by replying to your confirmation email or contacting support. A change of vehicle type may change the price.

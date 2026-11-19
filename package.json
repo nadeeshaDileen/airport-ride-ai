@@ -1,0 +1,28 @@
+{
+  "name": "airport-ride-ai",
+  "version": "1.0.0",
+  "description": "Learn Amazon Bedrock with Node.js and TypeScript by building an AI assistant for a fictional airport transfer company",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "01": "tsx src/01-converse.ts",
+    "02": "tsx src/02-multi-turn.ts",
+    "03": "tsx src/03-tool-use.ts",
+    "04": "tsx src/04-guardrails.ts",
+    "05": "tsx src/05-knowledge-base.ts",
+    "06": "tsx src/06-chatbot.ts",
+    "07": "tsx src/07-strands-agent.ts",
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-agent-runtime": "3.1170.0",
+    "@aws-sdk/client-bedrock-runtime": "3.1167.0",
+    "@strands-agents/sdk": "1.25.0",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.6",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2"
+  }
+}
